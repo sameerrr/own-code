@@ -3,4 +3,6 @@ This repository contains the original work completed. The references used are pr
 
 As more codes are commited, the README will be further improved. 
 
+* To-do:
+1. Explanation about work done in MNIST datasets. 
 
